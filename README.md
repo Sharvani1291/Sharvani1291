@@ -23,12 +23,6 @@ My passion lies in solving complex challenges through **data architectures and A
 
 ---
 
-## 🌐 Connect with Me:  
-• 📩 **Email:** [ch.sharvani.29@gmail.com](mailto:ch.sharvani.29@gmail.com)  
-• 🔗 **LinkedIn:** [Sharvani1291](https://linkedin.com/in/sharvanichelumalla)  
-
----
-
 ## 🛠️ Tech Stack:  
 • **Programming Languages:** Python, Java, C, Rust, JavaScript  
 • **Cloud & Big Data:** AWS (Glue, Lambda, Redshift, DynamoDB, EventRule, Step Function, Athena, Bedrock), Azure, GCP  
@@ -47,6 +41,12 @@ My passion lies in solving complex challenges through **data architectures and A
 
 ## ⚡ Passions Beyond Code: 
 I’m a data engineer who loves exploring new technologies, and diving deep into cloud computing and machine learning. Outside of tech, I enjoy capturing moments through photography 📸, reading spiritual books 📚, crafting intricate paper models ✂️, playing badminton 🏸, and engaging in strategic games of chess ♟️ as a creative outlet. Whether it's optimizing data systems, enhancing machine learning models, or capturing the perfect shot through my camera lens, I apply the same dedication and creativity to every project, both technical and personal.**  
+
+---
+
+## 🌐 Get in Touch:  
+• 📩 **Email:** [ch.sharvani.29@gmail.com](mailto:ch.sharvani.29@gmail.com)  
+• 🔗 **LinkedIn:** [Sharvani1291](https://linkedin.com/in/sharvanichelumalla)  
 
 ---
 
