@@ -36,7 +36,7 @@ My passion lies in solving complex challenges through **data architectures and A
 ---
 
 ## 🏆 Certifications & Achievements:  
-• **Databricks Certified Data Engineer Professional**
+• **Databricks Certified Data Engineer Professional** 
 • **Microsoft Certified: Fabric Data Engineer Associate** 
 • **AWS Certified Solution Architect – Associate**
 • **Docker Foundations Professional Certificate**
