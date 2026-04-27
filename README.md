@@ -37,11 +37,11 @@ My passion lies in solving complex challenges through **data architectures and A
 
 ## 🏆 Certifications & Achievements:  
 • **Databricks Certified Data Engineer Professional**   
-• **Microsoft Certified: Fabric Data Engineer Associate** 
-• **AWS Certified Solution Architect – Associate**
-• **Docker Foundations Professional Certificate**
-• **SQL (Advanced)**
-• **Published Research:** *Real-Time Video Enhancement Using Camera Response Model*
+• **Microsoft Certified: Fabric Data Engineer Associate**   
+• **AWS Certified Solution Architect – Associate**   
+• **Docker Foundations Professional Certificate**   
+• **SQL (Advanced)**   
+• **Published Research:** *Real-Time Video Enhancement Using Camera Response Model*   
 • **"Working as One" and "Seeking Data & Building Knowledge" Awards in IT Industry** 
 
 ---
