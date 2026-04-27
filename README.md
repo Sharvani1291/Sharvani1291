@@ -25,23 +25,23 @@ My passion lies in solving complex challenges through **data architectures and A
 
 ## 🛠️ Tech Stack:  
 • **Programming Languages:** Python, SQL, JavaScript, HTML, CSS, Rust  
-• **Data Engineering:** Apache Spark, PySpark, Kafka, Iceberg, Hive, Databricks, Airflow  
-• **Cloud Platforms:** AWS, Microsoft Azure (incl. Microsoft Fabric) 
-• **Databases & Storage:** Snowflake, PostgreSQL, MySQL, MongoDB, Amazon RDS, S3  
-• **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Git, GitHub Actions, Jenkins, CI/CD 
-• **Backend & APIs:** REST APIs, gRPC, Serverless Architectures 
-• **Machine Learning & Libraries:** PyTorch, TensorFlow, Pandas, NumPy 
+• **Data Engineering:** Apache Spark, PySpark, Kafka, Iceberg, Hive, Databricks, Airflow 
+• **Cloud Platforms:** AWS, Microsoft Azure (incl. Microsoft Fabric)
+• **Databases & Storage:** Snowflake, PostgreSQL, MySQL, MongoDB, Amazon RDS, S3
+• **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Git, GitHub Actions, Jenkins, CI/CD
+• **Backend & APIs:** REST APIs, gRPC, Serverless Architectures
+• **Machine Learning & Libraries:** PyTorch, TensorFlow, Pandas, NumPy
 • **Visualization:** Power BI, Tableau
 
 ---
 
 ## 🏆 Certifications & Achievements:  
-• **Databricks Certified Data Engineer Professional** 
+• **Databricks Certified Data Engineer Professional**
 • **Microsoft Certified: Fabric Data Engineer Associate** 
-• **AWS Certified Solution Architect – Associate** 
-• **Docker Foundations Professional Certificate** 
-• **SQL (Advanced)**  
-• **Published Research:** *Real-Time Video Enhancement Using Camera Response Model*  
+• **AWS Certified Solution Architect – Associate**
+• **Docker Foundations Professional Certificate**
+• **SQL (Advanced)**
+• **Published Research:** *Real-Time Video Enhancement Using Camera Response Model*
 • **"Working as One" and "Seeking Data & Building Knowledge" Awards in IT Industry** 
 
 ---
