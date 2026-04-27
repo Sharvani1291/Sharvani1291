@@ -24,13 +24,13 @@ My passion lies in solving complex challenges through **data architectures and A
 ---
 
 ## 🛠️ Tech Stack:  
-• **Programming Languages:** Python, SQL, JavaScript, HTML, CSS, Rust  
-• **Data Engineering:** Apache Spark, PySpark, Kafka, Iceberg, Hive, Databricks, Airflow 
-• **Cloud Platforms:** AWS, Microsoft Azure (incl. Microsoft Fabric)
-• **Databases & Storage:** Snowflake, PostgreSQL, MySQL, MongoDB, Amazon RDS, S3
-• **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Git, GitHub Actions, Jenkins, CI/CD
-• **Backend & APIs:** REST APIs, gRPC, Serverless Architectures
-• **Machine Learning & Libraries:** PyTorch, TensorFlow, Pandas, NumPy
+• **Programming Languages:** Python, SQL, JavaScript, HTML, CSS, Rust   
+• **Data Engineering:** Apache Spark, PySpark, Kafka, Iceberg, Hive, Databricks, Airflow    
+• **Cloud Platforms:** AWS, Microsoft Azure (incl. Microsoft Fabric)   
+• **Databases & Storage:** Snowflake, PostgreSQL, MySQL, MongoDB, Amazon RDS, S3   
+• **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Git, GitHub Actions, Jenkins, CI/CD   
+• **Backend & APIs:** REST APIs, gRPC, Serverless Architectures   
+• **Machine Learning & Libraries:** PyTorch, TensorFlow, Pandas, NumPy   
 • **Visualization:** Power BI, Tableau
 
 ---
