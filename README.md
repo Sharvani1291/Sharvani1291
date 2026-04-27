@@ -24,16 +24,23 @@ My passion lies in solving complex challenges through **data architectures and A
 ---
 
 ## 🛠️ Tech Stack:  
-• **Programming Languages:** Python, Java, C, Rust, JavaScript  
-• **Cloud & Big Data:** AWS (Glue, Lambda, Redshift, DynamoDB, EventRule, Step Function, Athena, Bedrock), Azure, GCP  
-• **Machine Learning:** PyTorch, TensorFlow, Federated Learning 
-• **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB  
-• **DevOps & Tools:** Docker, Kubernetes, CI/CD, Jenkins, Git, JIRA  
+• **Programming Languages:** Python, SQL, JavaScript, HTML, CSS, Rust  
+• **Data Engineering:** Apache Spark, PySpark, Kafka, Iceberg, Hive, Databricks, Airflow  
+• **Cloud Platforms:** AWS, Microsoft Azure (incl. Microsoft Fabric) 
+• **Databases & Storage:** Snowflake, PostgreSQL, MySQL, MongoDB, Amazon RDS, S3  
+• **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Git, GitHub Actions, Jenkins, CI/CD 
+• **Backend & APIs:** REST APIs, gRPC, Serverless Architectures 
+• **Machine Learning & Libraries:** PyTorch, TensorFlow, Pandas, NumPy 
+• **Visualization:** Power BI, Tableau
 
 ---
 
 ## 🏆 Certifications & Achievements:  
-• **AWS Certified Solution Architect – Associate**  
+• **Databricks Certified Data Engineer Professional** 
+• **Microsoft Certified: Fabric Data Engineer Associate** 
+• **AWS Certified Solution Architect – Associate** 
+• **Docker Foundations Professional Certificate** 
+• **SQL (Advanced)**  
 • **Published Research:** *Real-Time Video Enhancement Using Camera Response Model*  
 • **"Working as One" and "Seeking Data & Building Knowledge" Awards in IT Industry** 
 
@@ -46,7 +53,7 @@ I’m a data engineer who loves exploring new technologies, and diving deep into
 
 ## 🌐 Get in Touch:  
 • 📩 **Email:** [ch.sharvani.29@gmail.com](mailto:ch.sharvani.29@gmail.com)  
-• 🔗 **LinkedIn:** [Sharvani1291](https://linkedin.com/in/sharvanichelumalla)  
+• 🔗 **LinkedIn:** [Sharvani1291](https://linkedin.com/in/sharvanichelumalla) 
 
 ---
 
