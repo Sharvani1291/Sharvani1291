@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 About Me: 
 
 I'm a **Data Engineer** and a **Master’s student in Computer Science at the University of Georgia**.  
-With **5+ years of experience** in the IT industry, I specialize in **Cloud Computing, Federated Learning, and Big Data Engineering**.  
+With **7+ years of experience** in the IT industry, I specialize in **Cloud Computing, Federated Learning, and Big Data Engineering**.  
 My passion lies in solving complex challenges through **data architectures and AI-driven solutions**.  
 
 ---
